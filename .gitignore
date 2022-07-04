@@ -2,3 +2,4 @@
 *.csv
 archive/olympic_results.pkl
 Python Project Ideas.rtf
+.DS_Store
