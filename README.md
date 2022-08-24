@@ -1,4 +1,5 @@
 # Winter Olympics Performance by Country and Region (1998 - 2022)
+NYC Data Science Academy Python Project (Winter Olympics)
 
 There is only one Jupyter notebook in this repository that integrates data on the demographics, economy, and the medal count of countries in the Winter Olympics from 1998 to 2022.
 
